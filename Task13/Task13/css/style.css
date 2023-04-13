@@ -1,0 +1,10 @@
+
+.bg-body-tertiary{
+    background-color: #8a90ff !important;
+}
+
+header {
+    height: 600px;
+    background-image: url(../Img/banner-bg.jpg);
+    background-size: cover;
+}
